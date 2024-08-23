@@ -8,6 +8,8 @@ import 'react-toastify/dist/ReactToastify.css';
 import SignUp from "./SignUp";
 import Info from "./Info";
 
+alert("Welcome to Edidiong's Information Hub, Enter your details to be registered")
+
 const SignUpForm = () => {
   const [name, setName] = useState("");
   const [email, setEmail] = useState("");
