@@ -2,8 +2,8 @@ import React from 'react'
 
 const Info = ({name, email, phone, users}) => {
   return (
-    <div>
-      <div className="cover">
+    <div className="cover">
+      <div >
         <div className="items">
         <div className="registerContainer">
         <div className="registeredUsers">
